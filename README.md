@@ -46,9 +46,6 @@ API_KEY=your_api_key_here
 <!-- Add actual screenshots of your app -->
 <img src="screenshot1.png" width="300"> <img src="screenshot2.png" width="300">
 
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a PR.
 
